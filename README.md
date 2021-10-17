@@ -3,8 +3,8 @@
 - 🌱 I’m currently in Kalinga Institue of Industrial Technology(Btech-2nd Year in Electronics and Computer Science)
 - 💞️ I’m looking to collaborate on Web Development,C,C++,Python......
 - 📫 How to reach me 
-      Look for me on linkedin 🤟(theshreyaraj)
-      Email me at (shreya2020raj@gmail.com)
+      Look for me on linkedin 🤟(www.linkedin.com/in/theshreyaraj)
+      Email me at 📧shreya2020raj@gmail.com
    
 
 <!---
